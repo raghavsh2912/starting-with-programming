@@ -1,0 +1,6 @@
+git init ( to initialise git in folder)
+git add .  ( the dot is necessary, to add git to folder)
+git commit -m "commit message" ( commiting to the changes, it is necessary to write good commit messages)
+git branch -M main ( to start branch main in git repo)
+git remote add origin github repo url ( to connect all of the above to git hub syncing into repository created in git hub)
+git push -u origin main ( pushing the committed changes into github repository)
