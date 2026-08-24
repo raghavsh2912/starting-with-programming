@@ -1,3 +1,6 @@
+# Git Commands
+
+COMMANDS
 git init ( to initialise git in folder)
 git add .  ( the dot is necessary, to add git to folder)
 git commit -m "commit message" ( commiting to the changes, it is necessary to write good commit messages)
