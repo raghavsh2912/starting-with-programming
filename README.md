@@ -10,13 +10,13 @@ This repository contains the programs and notes I write while learning programmi
 starting-with-programming/
 │
 ├── C/
-│   └── arrays/          # C programs for practicing arrays
+│   └── array.c, array2.c, arraydel.c, linsearchARR.c          # C programs for practicing arrays
 │
 ├── python/              # Python programs
-│   └── calculator.py    # Simple calculator program
+│   └── simplecalc.py    # Simple calculator program
 │
-├── commands/            # Commands and syntax I'm learning
-│
+├── commands_learning           # Commands and syntax I'm learning
+│            └── gitcommands.txt
 ├── .gitignore
 └── README.md
 ```
@@ -63,16 +63,6 @@ I will gradually add:
 * Projects
 * Notes and useful commands
 
-##  Progress
 
-* [x] Start programming
-* [x] First C programs
-* [x] First Python program
-* [ ] C fundamentals
-* [ ] Python fundamentals
-* [ ] Data structures and algorithms
-* [ ] Git and GitHub
-* [ ] Build projects
-* [ ] Contribute to open source
 
 > This repository is primarily for learning, practice, experimentation, and tracking progress.
