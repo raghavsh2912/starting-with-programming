@@ -3,7 +3,7 @@
 
 int main() 
 {
-    int arr[100],i,n,m,index=0;
+    int arr[100],i,n,m,index=-1;
 
     printf("Enter the number of elements required in the array: ");
     scanf("%d",&n);
@@ -26,7 +26,7 @@ int main()
         }
     }
 
-    if (index < n)
+    if (index < n && index >= 0)
     {
         printf("Element found at index: %d\n", index);
     }
