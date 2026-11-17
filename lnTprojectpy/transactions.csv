@@ -1,0 +1,62 @@
+id,date,type,category,amount,description
+1,2026-08-01,income,Income,20000.0,Monthly allowance
+2,2026-08-02,expense,Rent,8000.0,Hostel/room rent
+3,2026-08-05,expense,Utilities,657.0,Mobile + internet
+4,2026-08-03,expense,Food,132.0,Meals
+5,2026-08-06,expense,Food,260.0,Meals
+6,2026-08-09,expense,Food,245.0,Meals
+7,2026-08-12,expense,Food,234.0,Meals
+8,2026-08-15,expense,Food,191.0,Meals
+9,2026-08-18,expense,Food,172.0,Meals
+10,2026-08-21,expense,Food,399.0,Meals
+11,2026-08-24,expense,Food,164.0,Meals
+12,2026-08-27,expense,Food,422.0,Meals
+13,2026-08-04,expense,Transport,158.0,Bus/metro/cab
+14,2026-08-11,expense,Transport,58.0,Bus/metro/cab
+15,2026-08-18,expense,Transport,57.0,Bus/metro/cab
+16,2026-08-25,expense,Transport,73.0,Bus/metro/cab
+17,2026-08-12,expense,Entertainment,423.0,Movie/games
+18,2026-08-20,expense,Shopping,976.0,Clothes/accessories
+19,2026-08-15,expense,Education,817.0,Books/courses
+20,2026-08-22,expense,Health,408.0,Medicine
+21,2026-09-01,income,Income,20000.0,Monthly allowance
+22,2026-09-02,expense,Rent,8000.0,Hostel/room rent
+23,2026-09-05,expense,Utilities,613.0,Mobile + internet
+24,2026-09-03,expense,Food,407.0,Meals
+25,2026-09-06,expense,Food,221.0,Meals
+26,2026-09-09,expense,Food,399.0,Meals
+27,2026-09-12,expense,Food,334.0,Meals
+28,2026-09-15,expense,Food,232.0,Meals
+29,2026-09-18,expense,Food,349.0,Meals
+30,2026-09-21,expense,Food,421.0,Meals
+31,2026-09-24,expense,Food,262.0,Meals
+32,2026-09-27,expense,Food,123.0,Meals
+33,2026-09-04,expense,Transport,244.0,Bus/metro/cab
+34,2026-09-11,expense,Transport,90.0,Bus/metro/cab
+35,2026-09-18,expense,Transport,228.0,Bus/metro/cab
+36,2026-09-25,expense,Transport,158.0,Bus/metro/cab
+37,2026-09-12,expense,Entertainment,548.0,Movie/games
+38,2026-09-20,expense,Shopping,1069.0,Clothes/accessories
+39,2026-09-15,expense,Education,459.0,Books/courses
+40,2026-09-22,expense,Health,210.0,Medicine
+41,2026-10-01,income,Income,20000.0,Monthly allowance
+42,2026-10-02,expense,Rent,8000.0,Hostel/room rent
+43,2026-10-05,expense,Utilities,772.0,Mobile + internet
+44,2026-10-03,expense,Food,172.0,Meals
+45,2026-10-06,expense,Food,167.0,Meals
+46,2026-10-09,expense,Food,314.0,Meals
+47,2026-10-12,expense,Food,169.0,Meals
+48,2026-10-15,expense,Food,303.0,Meals
+49,2026-10-18,expense,Food,296.0,Meals
+50,2026-10-21,expense,Food,429.0,Meals
+51,2026-10-24,expense,Food,255.0,Meals
+52,2026-10-27,expense,Food,142.0,Meals
+53,2026-10-04,expense,Transport,236.0,Bus/metro/cab
+54,2026-10-11,expense,Transport,167.0,Bus/metro/cab
+55,2026-10-18,expense,Transport,187.0,Bus/metro/cab
+56,2026-10-25,expense,Transport,81.0,Bus/metro/cab
+57,2026-10-12,expense,Entertainment,587.0,Movie/games
+58,2026-10-20,expense,Shopping,661.0,Clothes/accessories
+59,2026-10-15,expense,Education,865.0,Books/courses
+60,2026-10-22,expense,Health,250.0,Medicine
+61,2026-11-17,expense,Transport,130.0,college going
